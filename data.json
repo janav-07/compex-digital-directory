@@ -1,0 +1,488 @@
+{
+  "sponsor1": {
+    "url": "http://balgo.com/",
+    "name": "BUSINESS ALGORITHM DIGITAL ⭐",
+    "stallNo": "SPONSOR PAVILION",
+    "contactNumber": "",
+    "address": "M-8, Shree Krishna Market, Modi No. 3, Sitabuldi, Nagpur - 12",
+    "email": "customer@balgo.com",
+    "products": ["Laptops & Accessories", "Desktop", "Printer & Accessories"]
+  },
+  "sponsor2": {
+    "url": "https://www.justdial.com/Nagpur/Silver-System-Opposite-Yashwant-Stadium-Dhantoli/0712PX712-X712-150921145433-K9X8_BZDET",
+    "name": "SILVER SYSTEMS ⭐",
+    "stallNo": "SPECIAL PAVILION",
+    "contactNumber": "9822695558",
+    "address": "BS-1, Silver Palace, Opp. Yashwant Stadium, Dhantoli, Nagpur - 12",
+    "email": "sonu@silversystem.in",
+    "products": ["Laptops & Accessories", "Refurbished", "Desktop"]
+  },
+  "sponsor3": {
+    "url": "https://nagpurpolice.gov.in/en/cybercomplaintcells",
+    "name": "CYBER CELL 💻🚨",
+    "stallNo": "SPECIAL PAVILION",
+    "contactNumber": "0712 - 2590601",
+    "address": "Civil Lines, Nagpur - 440001",
+    "email": "",
+    "products": ["Services", "Miscellaneous"]
+  },
+  "sponsor4": {
+    "url": "https://www.mahametro.org/",
+    "name": "MAHA METRO 🚆🍊",
+    "stallNo": "SPECIAL PAVILION",
+    "contactNumber": "07122554217",
+    "address": "METRO BHAVAN, VIP Road, Near Dikshabhoomi, Nagpur - 440010",
+    "email": "contactus@mahametro.org",
+    "products": ["Services", "Miscellaneous"]
+  },
+  "camp": {
+    "url": "https://www.linktr.ee/vcmdwa",
+    "name": "COMP-EX' 24 - SERVICE CAMP 🪛",
+    "stallNo": "RS29, RS30, RS31, RS32",
+    "contactNumber": "0712-2243727",
+    "address": "6, 603, Suryakiran Complex, Bajaj Nagar, NAGPUR, Maharashtra, 440024",
+    "email": "compex@vcmdwa.org",
+    "products": ["Services", "Refurbished"]
+  },
+  "shop1": {
+    "url": "https://g.co/kgs/bQsHCgn",
+    "name": "BENQ INDIA PVT LTD",
+    "stallNo": "FP1",
+    "contactNumber": "7898663720",
+    "address": "BUILDING, 3RD FLOOR, DLF CYBER CITY, DLF PHASE-III,GURGAON, HARYANA-122002",
+    "email": "ashish.khatri@benq.com",
+    "products": ["Interactive Panels", "Peripherals", "Projectors"]
+  },
+  "shop2": {
+    "url": "https://g.co/kgs/bbMKK75",
+    "name": "EPSON INDIA PVT. LTD.",
+    "stallNo": "FP4",
+    "contactNumber": "",
+    "address": "Unit No. F3&4, 2nd Floor,Shree Krishna Complex, 1026, Shukrawar Peth,Tilak Road, Swargate, Opp. Maratha Chamber of Commerce,Pune- 411002",
+    "email": "raman@eid.epson.co.in",
+    "products": ["Printer & Accessories", "Services"]
+  },
+  "shop3": {
+    "url": "https://g.co/kgs/oV3wdU4",
+    "name": "WARNER ELECTRONICS (I) PVT. LTD.",
+    "stallNo": "FP5",
+    "contactNumber": "7875024700",
+    "address": "PLOT NO. A-114/6, FIVE STAR MIDC, SHENDRA, NAGPUR-MUMBAI HIGHWAY, AURANGABAD-431007",
+    "email": "manojasrani@trueview.co.in",
+    "products": ["CCTV", "Network Solutions"]
+  },
+  "shop4": {
+    "url": "https://g.co/kgs/oV3wdU4",
+    "name": "CANON INDIA PVT. LTD.",
+    "stallNo": "FP8",
+    "contactNumber": "9137185846",
+    "address": "4th & 5th Floor, Natraj by Rustomjee,194, Junction Of Western Express Highway & Andheri Kurla Road, Andheri East, Mumbai",
+    "email": "vibhuti.naik@canon.co.in",
+    "products": ["Printer & Accessories", "Services"]
+  },
+  "shop6": {
+    "url": "https://www.samsung.com/in/",
+    "name": "SAMSUNG INDIA PVT. LTD.",
+    "stallNo": "RP2",
+    "contactNumber": "8130203301",
+    "address": "Samsung India Electronics Pvt. Ltd. 20th to 24th Floor, Two Horizon Centre, Golf Course Road, Sector-43, DLF PH-V, Gurgaon, Haryana - 122202.",
+    "email": "lola.g@samsung.com",
+    "products": ["Laptops & Accessories", "Smartphones"]
+  },
+  "shop8": {
+    "url": "https://www.justdial.com/jdmart/Nagpur/Silver-Security-Solution-Opposite-Shani-Mandir-Burad-Galli-Sitabuldi/0712PX712-X712-160614132831-L3X7_BZDET/catalogue",
+    "name": "SILVER SECURITY",
+    "stallNo": "RP3",
+    "contactNumber": "7756901991",
+    "address": "Shop No. 6, Karnewar Marg, Sitabuldi, Nagpur, Maharashtra 440012",
+    "email": "no record found",
+    "products": ["CCTV", "Antivirus & Security", "Network Solutions"]
+  },
+  "shop9": {
+    "url": "https://g.co/kgs/W6nJxcm",
+    "name": "HARSH INFOTECH",
+    "stallNo": "MP1",
+    "contactNumber": "9325292827",
+    "address": "Shop No. 115 & 116, Ganesh Chambers, Opp. Yashwant Stadium, Dhantoli, Nagpur-440012",
+    "email": "harshinf@gmail.com",
+    "products": ["Printer & Accessories", "Miscellaneous"]
+  },
+  "shop10": {
+    "url": "#index.html",
+    "name": "ANAGHA CORPORATION",
+    "stallNo": "MP2",
+    "contactNumber": "8888803119",
+    "address": "206, Shivam Kunj Apoartment, Borgaon, Nagpur- 13",
+    "email": "anaghacorpngp@gmail.com",
+    "products": ["Interactive Panels", "Cameras", "Drone"]
+  },
+  "shop11": {
+    "url": "https://g.co/kgs/tVTemzm",
+    "name": "MASTER COMPUTER",
+    "stallNo": "MP3",
+    "contactNumber": "9373105894",
+    "address": "B/10, Rajkamal Complex, Above Bata Showroom, Panchsheel square, Dhantoli, Nagpur-440012",
+    "email": "mahesh1973.ma@gmail.com",
+    "products": ["Laptops & Accessories", "Desktop", "Peripherals"]
+  },
+  "shop12": {
+    "url": "https://g.co/kgs/xEHgWxj",
+    "name": "VIBGYOR PALETTE PVT. LTD.",
+    "stallNo": "MP4",
+    "contactNumber": "9225233211",
+    "address": "17/17A, ground floor , Aarna Complex, G4 Darodkar Square, Central Avenue Itwari, Nagpur",
+    "email": "vibgyorngp@gmail.com",
+    "products": ["Printer & Accessories", "Miscellaneous"]
+  },
+  "shop13": {
+    "url": "https://www.justdial.com/jdmart/Nagpur/J-P-Office-Equipment-Opp-Devi-Ahilya-Mandir-Dhantoli/0712P712STD3000022_BZDET/catalogue",
+    "name": "J.P. OFFICE EQUIPMENTS",
+    "stallNo": "MP5",
+    "contactNumber": "9823055503",
+    "address": "5&7 Kamalshree Appt.,Opp.Devi Ahilya Mandir, Near Dhantoli Garden, Dhantoli, Nagpur - 12",
+    "email": "jpoe.ngp@gmail.com",
+    "products": ["Smart ID Card", "Miscellaneous"]
+  },
+  "shop14": {
+    "url": "https://g.co/kgs/xVUCnAo",
+    "name": "AKASH FURNITECH PVT. LTD.",
+    "stallNo": "MP6",
+    "contactNumber": "9890194040",
+    "address": "356, Great Nag Road, Nagpur",
+    "email": "akash@akashfurniture.com",
+    "products": ["Furniture", "Miscellaneous"]
+  },
+  "shop15": {
+    "url": "https://ucnindia.com/",
+    "name": "UCN CABLE PVT. LTD.",
+    "stallNo": "MP8",
+    "contactNumber": "9822559399",
+    "address": "356, Great Nag Road, Nagpur",
+    "email": "umeshpathak.ucn@gmail.com",
+    "products": ["Network Solutions", "Miscellaneous"]
+  },
+  "shop16": {
+    "url": "https://g.co/kgs/DfzNiKR",
+    "name": "OJAS ENTERPRISES",
+    "stallNo": "MP9",
+    "contactNumber": "9422125792 / 8830923144",
+    "address": "39, Shree Nagar Manewada Road, Nagpur-24",
+    "email": "hitechcctv@ymail.com",
+    "products": ["CCTV", "Network Solutions"]
+  },
+  "shop17": {
+    "url": "https://g.co/kgs/jcHNwAq",
+    "name": "CACHE TECHNOLOGIES PVT. LTD.",
+    "stallNo": "MP10",
+    "contactNumber": "9552586776",
+    "address": "1st Floor, Jitendra Villa, 1194/6 Shivaji Nagar, Near Ramchandra Sabha Mandap - Pune",
+    "email": "vijendra@cachetech.co.in",
+    "products": ["MRS", "Network Solutions"]
+  },
+  "shop18": {
+    "url": "https://www.justdial.com/Nagpur/Altaf-H-Vali-Near-Variety-Square-Sitabuldi/0712PX712-X712-140728222946-H9N7_BZDET",
+    "name": "ALTAF H. VALI",
+    "stallNo": "MP11",
+    "contactNumber": "9890087577",
+    "address": "Tanksale Complex , Near variety Square, Sitabuldi, Nagpur",
+    "email": "altaf@altafhvali.com",
+    "products": ["Cameras", "USB"]
+  },
+  "shop19": {
+    "url": "https://yappe.in/maharashtra/nagpur/softsense/107582",
+    "name": "SOFTESENSE TECHNOSERVE (I) PVT. LTD.",
+    "stallNo": "MP13",
+    "contactNumber": "8237732800",
+    "address": "Muralidhar Complex, Above NNSB, Temple Bazar Road, Sitabuldi, Nagpur",
+    "email": "support@softsense.ind.in / lichade.vishal@gmail.com",
+    "products": ["Services", "Miscellaneous"]
+  },
+  "shop20": {
+    "url": "https://www.justdial.com/Ahmedabad/K-M-Electronic-Cables-Pvt-Ltd-Head-Office-Opposite-Maurya-Complex/079PXX79-XX79-131220184552-R2C7_BZDET",
+    "name": "K.M ELECTRONIC CABLES PVT. LTD.",
+    "stallNo": "MP15",
+    "contactNumber": "9974079845",
+    "address": "K.M. House, Opp. Maurya Complex, Near C.U Shah College, Ahmedabad-380 014",
+    "email": "rajesh@securuscctv.com",
+    "products": ["CCTV", "Network Solutions"]
+  },
+  "shop21": {
+    "url": "https://www.netcom.co.in/",
+    "name": "NETCOM SYSTEM",
+    "stallNo": "FS01",
+    "contactNumber": "9823050816 / 2443747",
+    "address": "6, B-Wing, Ground Floor, Lokmat Bhavan, Wardha Road, Nagpur",
+    "email": "netcomngp@gmail.com",
+    "products": ["Data Recovery & Backup", "Services"]
+  },
+  "shop22": {
+    "url": "https://krishnamcomputers.com/",
+    "name": "KRISHNAM COMPUTERS",
+    "stallNo": "FS08",
+    "contactNumber": "9822234449 / 2550019",
+    "address": "Shop No. B-6(Basement),210shubhCommercial Complex , WHC Road, Opposite Metro Shoes, Nagpur-10",
+    "email": "krishnamcomputers@gmail.com",
+    "products": ["Laptops & Accessories", "Miscellaneous"]
+  },
+  "shop23": {
+    "url": "https://g.co/kgs/2sjZhZy",
+    "name": "UJWAL AUTOMATION",
+    "stallNo": "FS09",
+    "contactNumber": "9890004290",
+    "address": "53, Karim Layout, State Bank Colony, Opp. Hanuman Nadir, Gopal Nagar, Nagpur- 440022",
+    "email": "ujwalautomation123@gmail.com",
+    "products": ["Barcode", "RFID", "Smart ID Card"]
+  },
+  "shop24": {
+    "url": "https://npav.net/",
+    "name": "NET PROTECTOR",
+    "stallNo": "FS16",
+    "contactNumber": "9370095949",
+    "address": "Biz Secure Lab Pvt. Ltd. www.indiaantivirus.com 1206, Sadashiv Peth, Pune - 411030 C-3, Shri Sai Ganesh Complex, Karvenagar, Pune - 411052. (Maharashtra)",
+    "email": "sachin.hingane@netprotector.",
+    "products": ["Antivirus & Security", "Miscellaneous"]
+  },
+  "shop25": {
+    "url": "https://www.abhinfotech.in/",
+    "name": "ABHI INFOTECH",
+    "stallNo": "FS17",
+    "contactNumber": "9823114442",
+    "address": "1st Floor, plot no. 9, Indraanand appt. Banerji Marg, Lane No. 3, Dhantoli, Nagpur",
+    "email": "abhinfotech2011@gmail.com",
+    "products": ["Laptops & Accessories", "Desktop", "Peripherals"]
+  },
+  "shop26": {
+    "url": "https://www.justdial.com/Nagpur/Sapna-Traders-Handloom-Market-Gandhibagh/0712PX712-X712-000788372787-S7R2_BZDET",
+    "name": "SAPNA TRADERS",
+    "stallNo": "FS24",
+    "contactNumber": "9370295959",
+    "address": "142/A, 1st Floor, Handloom Market, Gandhibag, Nagpur-440002",
+    "email": "kataria.ritesh@gmail.com",
+    "products": ["Business - Softwares", "Miscellaneous"]
+  },
+  "shop27": {
+    "url": "#index.html",
+    "name": "VARDAMAN SALES",
+    "stallNo": "FS25",
+    "contactNumber": "9329470933",
+    "address": "Shop No. B1, Behind Jasleen Hospital , Dhantoli",
+    "email": "jkhirawat111@gmail.com",
+    "products": ["Smart ID Card", "Printer & Accessories"]
+  },
+  "shop28": {
+    "url": "https://www.justdial.com/Nagpur/Rainbow-Services-Opp-Yas-Bank-Pratap-Nagar-Square-Kotwal-Nagar/0712PX712-X712-180316111006-W8C2_BZDET",
+    "name": "RAINBOW SERVICES",
+    "stallNo": "FS36",
+    "contactNumber": "9225500055",
+    "address": "35, Postal audit Colony, Paratap Nagar - Nagpur",
+    "email": "kc9818@yahoo.com",
+    "products": ["Network Solutions", "Business - Softwares"]
+  },
+  "shop29": {
+    "url": "http://www.swaraenterprise.com/search?srchval=Keyboards%20Mouse%20Input%20Devices",
+    "name": "SWARA ENTERPRISES",
+    "stallNo": "CS04",
+    "contactNumber": "8237117007",
+    "address": "SHOP NO. BS5 ABHYANKAR MARG, POOJA PALACE, DHANTOLI , NAGPUR-440012",
+    "email": "swara.enterprises2414@gmail.com",
+    "products": ["Laptops & Accessories", "Printer & Accessories"]
+  },
+  "shop30": {
+    "url": "https://akshayexim.com/",
+    "name": "AKSHAY EXIM",
+    "stallNo": "CS05",
+    "contactNumber": "9422114838",
+    "address": "123, Shubham Wanjari Marg, New Verma Layout, Verma Layout, Sudam Nagar, Shivaji Nagar, Nagpur, Maharashtra 440010",
+    "email": "aksayexm_ngp@sancharnet.in",
+    "products": ["Interactive Panels", "Projectors"]
+  },
+  "shop31": {
+    "url": "https://g.co/kgs/zgzKheV",
+    "name": "JAK INFOSOLUTIONS PVT. LTD.",
+    "stallNo": "CS12",
+    "contactNumber": "9822222037",
+    "address": "82, Samarth Nagar (E), behind FCI  Godown, Ajni, Nagpur",
+    "email": "hemaljak@rediffmail.com",
+    "products": ["Business - Softwares", "Miscellaneous"]
+  },
+  "shop32": {
+    "url": "https://www.justdial.com/Nagpur/F-Tech-Systems-Opposite-Yashwant-Stadium-Dhantoli/0712PX712-X712-140109175617-L7Q4_BZDET",
+    "name": "F TECH SYSTEMS",
+    "stallNo": "CS13",
+    "contactNumber": "9890695468",
+    "address": "118, 1'st Floor, Ganesh Chamber, Nr. Mehadia Chamber, Dhantoli, Nagpur - 12",
+    "email": "ftechsystem@rediffmail.com",
+    "products": ["Laptops & Accessories", "Desktop", "Services", "Refurbished"]
+  },
+  "shop33": {
+    "url": "https://videecom.com/",
+    "name": "VIDEE COM",
+    "stallNo": "CS21",
+    "contactNumber": "9890695468",
+    "address": "B-2, 3'rd Flr. Lokratna Appt, Above Maratha Mandir, Rani Zansi Sq. Sitabuldi, Nagpur - 12",
+    "email": "videecom@gmail.com",
+    "products": ["CCTV", "Business Softwares", "UPS & Inverters"]
+  },
+  "shop34": {
+    "url": "https://evertop.in/contactUs.html",
+    "name": "EVERTOP COMPUTER",
+    "stallNo": "RS02",
+    "contactNumber": "9823019644",
+    "address": "14, Tourist Inn Hotel, Opp. Janki Cinema, Sitabuldi, Nagpur - 12",
+    "email": "evertopngp@gmail.com",
+    "products": ["Data Recovery & Backup", "Services"]
+  },
+  "shop35": {
+    "url": "https://www.justdial.com/Nagpur/Jet-Marketing-Above-Anjani-Courier-Dhantoli/0712PX712-X712-140411193439-C9P9_BZDET",
+    "name": "JET MARKETING",
+    "stallNo": "RS03",
+    "contactNumber": "9370971400",
+    "address": "Shop No. 4, Kamal Shree Apartment, Above Anjali Courier, Dhantoli, Nagpur - 12",
+    "email": "jetmarketing02@gmail.com",
+    "products": ["Printer & Accessories", "Miscellaneous"]
+  },
+  "shop36": {
+    "url": "https://www.justdial.com/jdmart/Nagpur/Om-Computers-Near-Agrawal-Bichayat-Kendra-Beside-SR-Garment-Mehadia-Square/0712PX712-X712-000796883378-D6F7_BZDET/catalogue?rStatus=1&pgfrom=b2b_catalogue",
+    "name": "OM COMPUTERS",
+    "stallNo": "RS06",
+    "contactNumber": "9371116256",
+    "address": "Mehadia Chowk, Dhantoli, Nagpur - 12",
+    "email": "omcompngp@gmail.com",
+    "products": ["Printer & Accessories", "Peripherals", "Services"]
+  },
+  "shop37": {
+    "url": "https://www.justdial.com/jdmart/Nagpur/Aaa-Computers-Untkhana-Chowk/0712PX712-X712-210728221441-U7G1_BZDET/catalogue?rStatus=1&pgfrom=b2b_catalogue",
+    "name": "AAA COMPUTER",
+    "stallNo": "RS07",
+    "contactNumber": "9325022333",
+    "address": "223, Untkhana, Dhantoli, Nagpur - 12",
+    "email": "aaacomputers03@gmail.com",
+    "products": ["Peripherals", "Printer & Accessories", "Services", "Projectors"]
+  },
+  "shop38": {
+    "url": "https://www.retailsolution.co.in/",
+    "name": "RETAIL SOLUTION",
+    "stallNo": "RS10",
+    "contactNumber": "9907271777",
+    "address": "No. 33, Thiruveedhi, Amman Koil Street, Ramkrishna Nagar, Annamalaipuram, Chennai - 600028",
+    "email": "mp@retailsolution.in",
+    "products": ["Barcode", "Printer & Accessories"]
+  },
+  "shop39": {
+    "url": "https://www.justdial.com/Nagpur/Integrated-Peripherals-Services-Imamwada-Square-Near-Deekay-Motors-Imamwada/0712PX712-X712-001105577492-H8I0_BZDET",
+    "name": "INTEGRATED PERIPHERAL SERVICES",
+    "stallNo": "RS11",
+    "contactNumber": "9822226049",
+    "address": "102, Shubh Mangalam Appts. 32/2, Imamwada Sq. Great Nag Rd.Near Deekay Motors, Nagpur - 03",
+    "email": "pawandahake@gmail.com",
+    "products": ["Printer & Accessories", "Miscellaneous"]
+  },
+  "shop40": {
+    "url": "https://www.deldure.com/id/7029390/turnkey-inc./nagpur?displayType=mobile&displayWidth=988",
+    "name": "TURNKEY INC",
+    "stallNo": "RS14",
+    "contactNumber": "9822226049",
+    "address": "159, Lendra Park, Ramdaspeth, Nagpur - 10",
+    "email": "murale@turnkeyinc.in",
+    "products": ["MRS", "Network Solutions"]
+  },
+  "shop41": {
+    "url": "https://www.justdial.com/Nagpur/Media-World/0712PX712-X712-1232120916F5P8I6-DC_BZDET",
+    "name": "MEDIA WORLD",
+    "stallNo": "RS23",
+    "contactNumber": "9422807545",
+    "address": "M-8, Shree Krishna Market, Modi No. 3, Sitabuldi, Nagpur - 12",
+    "email": "",
+    "products": ["Business - Softwares", "Services"]
+  },
+  "shop42": {
+    "url": "https://www.justdial.com/Nagpur/Ng-Sales-Corporation-Behind-Hanuman-Mandir-Dhantoli/0712PX712-X712-190727124940-D5I7_BZDET",
+    "name": "NG SALES CORPORATION",
+    "stallNo": "MP14",
+    "contactNumber": "",
+    "address": "Plot No. 623, Dhantoli, Nagpur - 440012 (Behind Hanuman Mandir)",
+    "email": "",
+    "products": ["LED TVs", "Miscellaneous"]
+  },
+  "shop43": {
+    "url": "",
+    "name": "MARG",
+    "stallNo": "RS23",
+    "contactNumber": "",
+    "address": "",
+    "email": "",
+    "products": ["Business - Softwares", "Network Solutions"]
+  },
+  "shop45": {
+    "url": "",
+    "name": "GO IP GLOBAL SERVICES PVT. LTD.",
+    "stallNo": "RS26, RS27",
+    "contactNumber": "",
+    "address": "",
+    "email": "",
+    "products": ["CCTV", "Network Solutions"]
+  },
+  "shop46": {
+    "url": "",
+    "name": "VEDANT COMPUTERS",
+    "stallNo": "RS35",
+    "contactNumber": "8007839000",
+    "address": "",
+    "email": "",
+    "products": ["Laptops & Accessories", "Printer & Accessories", "Desktop", "Peripherals"]
+  },
+  "shop47": {
+    "url": "",
+    "name": "COPY PRO TECHNOLOGY",
+    "stallNo": "RS19",
+    "contactNumber": "",
+    "address": "",
+    "email": "contact@mediaworldindia.com",
+    "products": ["Laptops & Accessories", "Printer & Accessories", "Desktop"]
+  },
+  "shop48": {
+    "url": "",
+    "name": "SOFTECH COMPUTER",
+    "stallNo": "RS15",
+    "contactNumber": "",
+    "address": "",
+    "email": "contact@mediaworldindia.com",
+    "products": ["Antivirus & Security", "CCTV", "Services"]
+  },
+  "shop49": {
+    "url": "",
+    "name": "ARYAN SOFTWARE TECHNOLOGIES",
+    "stallNo": "RS18",
+    "contactNumber": "",
+    "address": "",
+    "email": "contact@mediaworldindia.com",
+    "products": ["Business - Softwares", "Miscellaneous"]
+  },
+  "shop50": {
+    "url": "https://www.justdial.com/Nagpur/N-J-Soft-Inc-Opposite-Yashwant-Stadium-Dhantoli/0712PX712-X712-170923000934-W9R6_BZDET",
+    "name": "NJ SOFT INC",
+    "stallNo": "MP7",
+    "contactNumber": "9766590909",
+    "address": "",
+    "email": "",
+    "products": ["Peripherals", "Desktop"]
+  },
+  "shop51": {
+    "url": "https://www.justdial.com/Nagpur/Yashogovind-Industries-16-Near-Dainik-Bhashar/0712PX712-X712-140129165143-V3A2_BZDET",
+    "name": "YASHOGOVIND INDUSTRIES",
+    "stallNo": "MP12",
+    "contactNumber": "9422147931",
+    "address": "Great Nag Road, Nagpur - 440008 (16, Near Dainik Bhashar)",
+    "email": "",
+    "products": ["Furniture", "Laptops & Accessories"]
+  },
+  "shop52": {
+    "url": "",
+    "name": "VIBGYOR PIXEL PRINTS PRIVATE LIMITED",
+    "stallNo": "RS23",
+    "contactNumber": "",
+    "address": "",
+    "email": "contact@mediaworldindia.com",
+    "products": ["Services", "Miscellaneous"]
+  }
+}

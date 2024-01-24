@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COMP-EX'2024 - Digital Directory</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="vcmdwa.jpg" type="image/jpg">
+</head>
+<body>
+    <div class="container" id="container">
+        <div class="search-container">
+            <div class="top_container">
+                <a href="https://linktr.ee/vcmdwa"><img src="vcmdwa.jpg" width="75px" style="border-radius: 50%;"></a>
+                <button id="darkModeToggle"><img src="mode.png" alt="mode" width="20px"><div>Mode</div></button>
+            </div>
+            <h3>COMP-EX'2024 - Digital Directory</h3>
+            <input type="text" id="searchInput" placeholder="Search...">
+            <label for="filterDropdown">Filter by:</label>
+            <select id="filterDropdown">
+                <option value="default">...</option>
+                <option value="products">Product</option>
+            </select>
+            <div id="filterCheckboxesContainer"></div><br>
+            <button onclick="resetFilters()">Reset Filters</button>
+        </div>
+        <div id="itemDetails"></div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
