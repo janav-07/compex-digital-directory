@@ -111,7 +111,7 @@ function displayCompanyDetails(companyList) {
         return `<div class="exhibitors-data">
                     <h2><a href=${url}>${name}</a></h2>
                     <div><b>Stall Number:</b> ${stallNo} </div>
-                    <div><b>Contact Number:</b><a href="tel:${contactNumber}"> ${contactNumber}</a>$</div>
+                    <div><b>Contact Number:</b><a href="tel:${contactNumber}"> ${contactNumber}</a></div>
                     <div><b>Address:</b> ${address}</div>
                     <div><b>Email:</b><b><a href="mailto:${email}"> ${email}</a></b></div>
                     <div><b>Products:</b> ${products.join(", ")}</div>
