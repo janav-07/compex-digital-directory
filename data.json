@@ -392,7 +392,7 @@
     "stallNo": "RS23",
     "contactNumber": "9422807545",
     "address": "M-8, Shree Krishna Market, Modi No. 3, Sitabuldi, Nagpur - 12",
-    "email": "",
+    "email": "contact@mediaworld.com",
     "products": ["Business - Softwares", "Services"]
   },
   "shop42": {
@@ -437,7 +437,7 @@
     "stallNo": "RS19",
     "contactNumber": "",
     "address": "",
-    "email": "contact@mediaworldindia.com",
+    "email": "",
     "products": ["Laptops & Accessories", "Printer & Accessories", "Desktop"]
   },
   "shop48": {
@@ -446,7 +446,7 @@
     "stallNo": "RS15",
     "contactNumber": "",
     "address": "",
-    "email": "contact@mediaworldindia.com",
+    "email": "",
     "products": ["Antivirus & Security", "CCTV", "Services"]
   },
   "shop49": {
@@ -455,7 +455,7 @@
     "stallNo": "RS18",
     "contactNumber": "",
     "address": "",
-    "email": "contact@mediaworldindia.com",
+    "email": "",
     "products": ["Business - Softwares", "Miscellaneous"]
   },
   "shop50": {
@@ -482,7 +482,7 @@
     "stallNo": "RS23",
     "contactNumber": "",
     "address": "",
-    "email": "contact@mediaworldindia.com",
+    "email": "",
     "products": ["Services", "Miscellaneous"]
   }
 }
